@@ -16,7 +16,7 @@ The name of the resource cannot be changed!
 
 ![screenshot](https://media.discordapp.net/attachments/723280320450920480/768215242169122906/unknown.png)
 
-- [ressource preview](https://streamable.com/88vz2t) 
+- [Ressource Preview](https://streamable.com/88vz2t) 
 
 # Installation
 - Import `start.bat` in your server base
