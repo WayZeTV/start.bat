@@ -1,17 +1,16 @@
 # start.bat-v2
 
+Bonjour à tous je vous présente aujourd'hui la version 2 de ce petit script de commandes pour lancer votre Serveur FiveM ! (start.bat)
 
 -----------------------------------------------------
 -----------------------------------------------------
 
-Hello everyone, today I present to you this little command script to launch your FiveM Server! (start.bat)
-
-The name of the resource cannot be changed!
+Hello everyone, today I present to you version 2 of this small command script to launch your FiveM Server! (start.bat)
 
 
 # Screenshot
 
-![screenshot](https://media.discordapp.net/attachments/723280320450920480/768215242169122906/unknown.png)
+![screenshot](https://media.discordapp.net/attachments/726766977049165844/789491499652874250/unknown.png)
 
 - [Ressource Preview](https://streamable.com/g4bfx6) 
 
@@ -28,7 +27,7 @@ If you need help installing: https://discord.gg/eX9GXWN
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
 
 ### License
-start.bat - Batch program
+start.bat-v2 - Batch program
 
 Copyright (C) 2020 WayZe
 
