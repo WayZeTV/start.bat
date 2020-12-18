@@ -1,8 +1,5 @@
 # start.bat
 
-Bonjour à tous je vous présente aujourd'hui ce petit script de commandes pour lancer votre Serveur FiveM ! (start.bat)
-
-Le nom de la ressource n'est pas modifiable !
 
 -----------------------------------------------------
 -----------------------------------------------------
