@@ -12,7 +12,7 @@ Hello everyone, today I present to you version 2 of this small command script to
 
 ![screenshot](https://media.discordapp.net/attachments/726766977049165844/789491499652874250/unknown.png)
 
-- [Ressource Preview](https://streamable.com/g4bfx6) 
+- [Ressource Preview](https://streamable.com/3n70v6) 
 
 # Installation
 - Import `start.bat` in your server base
