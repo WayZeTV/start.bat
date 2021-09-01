@@ -5,7 +5,7 @@ Bonjour à tous je vous présente aujourd'hui la version 3 de ce petit script de
 -----------------------------------------------------
 -----------------------------------------------------
 
-Hello everyone, today I present to you version 2 of this small command script to launch your FiveM Server! (start.bat)
+Hello everyone, today I present to you version 3 of this small command script to launch your FiveM Server! (start.bat)
 
 
 # Screenshot
