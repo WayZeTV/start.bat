@@ -16,11 +16,11 @@ Hello everyone, today I present to you version 2 of this small command script to
 
 # Installation
 - Import `start.bat` in your server base
-- Change the following two paths:
-- RMDIR /s /q `"D:\nomdossier\cache"` (L.23)
-- cd /d `D:\nomdossier`(L.32)
-- `D:\nomdossier`\FXServer.exe +exec server.cfg (L.33)
-- XCOPY `D:\nomdossier D:\nomdossier-backup\` /m /e /y (L.49)
+- Change the following paths:
+- cd /d `D:\BaseTemplate`(L.24)
+- `D:\BaseTemplate`\FXServer.exe +exec server.cfg (L.25)
+- XCOPY `D:\BaseTemplate D:\BaseTemplate-backup\` /m /e /y (L.36)
+- RMDIR /s /q `"D:\BaseTemplate\cache"` (L.50)
 
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 If you need help installing: https://discord.gg/eX9GXWN
